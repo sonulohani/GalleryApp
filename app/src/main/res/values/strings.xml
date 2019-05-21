@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <string name="pictures_tab">PICTURES</string>
+    <string name="videos_tab">VIDEOS</string>
+    <string name="albums_tab">ALBUMS</string>
+    <string name="private_tab">PRIVATE</string>
+
+    <string name="title_activity_picture_screen">picture_screen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
